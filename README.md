@@ -17,8 +17,14 @@
 
 Clone the code from git.
 ```
-git clone $repo
+git clone https://github.com/miginv/python_tests.git
 ```
+
+Download or copy in the same folder the app:
+```
+AppPerformanceTest-0.1-SNAPSHOT.jar
+```
+
 You can run it by calling python:
 ```
 python booking_performance.py
